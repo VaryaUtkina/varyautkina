@@ -19,9 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/var_ka" target="blank"><img align="center" src="https://linku.su/uploads/block_thumbnail_images/759e0c12e6a0ad1ae14ac22d6a931d7c.png" alt="https://t.me/var_ka" height="40" width="40" /></a>
+<a href="https://t.me/var_ka" target="blank"><img align="center" src="https://github.com/VaryaUtkina/varyautkina/blob/d67d17f73743628a834a5f69ba35debe482789d4/assets/telegram_sidxucjghnne.svg" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/varvara-utkina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varvara-utkina" height="30" width="40" /></a>
 </p>
+
 
 <!--
 **VaryaUtkina/varyautkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
