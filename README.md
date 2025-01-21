@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Varya :sunflower:</h1>
+<h1 align="center", href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F7DB47&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Varya+%F0%9F%8C%BB" alt="Typing SVG" /></h1>
+
 <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/70406846/original/858b7a223649226ecfd36480a7498b38b32e042b/create-awesome-animated-graphic.png" alt="" align="right" width="350" height="350" />
 
 <h3 align="center">A passionate iOS-developer from Saint-Petersburg, Russia</h3>
@@ -23,6 +24,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/varvara-utkina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varvara-utkina" height="30" width="40" /></a>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=varyautkina)](https://github.com/Loveink/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=varyautkina)
 
 <!--
 **VaryaUtkina/varyautkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
