@@ -6,8 +6,6 @@
 
 <p>In June 2024, I completed the iOS development course <b>(SwiftBook)</b> and I am currently practicing by creating various pet-projects and completing test tasks.</p>
 <p>:calendar:From January to April 2025 I am going through a <b>marathon on a SwiftUI (Devrush)</b></p>
-<p>:bangbang: <b>Now I am actively looking for a job.</b></p>
-<p>If you are interested in my candidacy, do not hesitate to contact me</p>
 
 <h3 align="left">:warning: My technologies stack:</h3>
 
