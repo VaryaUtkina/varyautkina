@@ -6,7 +6,8 @@
 
 <p>In June 2024, I completed the iOS development course <b>(SwiftBook)</b> and I am currently practicing by creating various pet-projects and completing test tasks.</p>
 <p>:calendar:From January to April 2025 I was going through a <b>marathon on a SwiftUI (Devrush).</b></p>
-<p> As team lead, I guided our project to 1st place in Challenge #1, resulting in its publication on the App Store. [Look at our work!](https://apps.apple.com/ru/app/%D0%B8%D0%B3%D1%80%D0%B0-%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0/id6742895474)</p>
+<p> As team lead, I guided our project to 1st place in Challenge #1, resulting in its publication on the App Store. </p>
+[Look at our work!](https://apps.apple.com/ru/app/%D0%B8%D0%B3%D1%80%D0%B0-%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0/id6742895474)
 
 <h3 align="left">:warning: My technologies stack:</h3>
 
