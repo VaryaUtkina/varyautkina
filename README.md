@@ -2,7 +2,7 @@
 
 <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/70406846/original/858b7a223649226ecfd36480a7498b38b32e042b/create-awesome-animated-graphic.png" alt="" align="right" width="350" height="350" />
 
-<h3 align="center">A passionate iOS-developer from Saint-Petersburg, Russia</h3>
+<h3 align="center">iOS-developer from Saint-Petersburg, Russia</h3>
 
 <p>In June 2024, I completed the iOS development course <b>(SwiftBook)</b> and I am currently practicing by creating various pet-projects and completing test tasks.</p>
 <p>:calendar:From January to April 2025 I was going through a <b>marathon on a SwiftUI (Devrush).</b></p>
